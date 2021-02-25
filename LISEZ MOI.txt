@@ -1,0 +1,10 @@
+Cher correcteur,
+
+Nous avons recontré un problème lors de l'execution du jeu d'essai ( du lot 2 ). 
+Si vous essayez d'executer le jeu d'essaie en une seul fois, certaines procedures d'afficheront plusieurs fois. 
+Nous ignorons la raison... 
+
+Cordialement , 
+
+MILLO Chelsey 
+YE Lisa
